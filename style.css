@@ -560,12 +560,13 @@ div.exp {
     height: 46px;
   }
   .container2 {
-    padding-top: 29px;
+    padding-top: 60px;
     height: auto;
   }
   .container2 p.advices {
     padding-top: 10px;
   }
+  .heading3 {padding-top: 60px;}
   a.names1 {
     font-size: 16px;
   }
@@ -574,11 +575,11 @@ div.exp {
     margin: 0;
   }
   .map {
-    width: 80%;
+    width: 70%;
     margin-left: 0;
   }
   .map img {
-    width: 350px;
+    width: 300px;
   }
   .exp b {
     padding: 0 0.1em;
@@ -586,9 +587,13 @@ div.exp {
     position: relative;
     top: -25px;
   }
+  .container5 {height: 80vh;}
   .container5 p.detail {
     margin: 0;
   }
+  .carousel-indicators {
+    top: 20em;
+}
 
   .container4 p.paragraph {
     margin: 12px 0 0 0;
@@ -619,7 +624,7 @@ div.exp {
     margin: 0 0 48px;
   }
   .seoEngine {
-    margin-bottom: 12px;
+    margin-bottom: 55px;
   }
   .container3 p.popular {
   padding: 0 50px;
