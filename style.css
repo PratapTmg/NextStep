@@ -396,6 +396,10 @@ div.exp {
 .sanocontainer img {
   width: 63px;
   height: 63px;
+  border-radius: 50%;
+}
+.sanocontainer img.avatar{
+  width: 94px;
 }
 .sanocontainer .name {
   padding-left: 22px;
