@@ -577,6 +577,7 @@ div.exp {
   .map {
     width: 70%;
     margin-left: 0;
+    margin-right: 30px;
   }
   .map img {
     width: 300px;
