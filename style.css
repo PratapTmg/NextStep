@@ -545,8 +545,8 @@ div.exp {
     left: 0;
   }
   .midcontent {
-    margin-top: 10em;
-    padding-left: 3em;
+    padding-left: 1em;
+    padding-right: 1em;
   }
   .midcontent h1 {
     font-size: 3em;
@@ -598,7 +598,7 @@ div.exp {
     padding-left: 23px;
   }
   .globe {
-    padding-right: 130px;
+    padding-right: 105px;
   }
   .phone {
     padding-right: 130px;
@@ -607,7 +607,7 @@ div.exp {
     margin-bottom: 48px;
   }
   .code {
-    padding-right: 130px;
+    padding-right: 105px;
   }
   .digitalMarketing,
   .seoEngine {
