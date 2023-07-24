@@ -498,7 +498,7 @@ div.exp {
   cursor: pointer;
 }
 /*Resopnsive Design*/
-/*For small mobile*/
+/*For mobile*/
 @media screen and (max-width: 600px) {
   .container1 {
     width: 100%;
@@ -574,11 +574,11 @@ div.exp {
     margin: 0;
   }
   .map {
-    width: 90%;
+    width: 80%;
     margin-left: 0;
   }
   .map img {
-    width: 390px;
+    width: 350px;
   }
   .exp b {
     padding: 0 0.1em;
@@ -598,23 +598,31 @@ div.exp {
     padding-left: 23px;
   }
   .globe {
-    padding-right: 105px;
+    height: 65px;
+    width: 65px;
+    padding: 0;
   }
   .phone {
-    padding-right: 130px;
+    padding: 0;
   }
   .sevrviceTitle {
     margin-bottom: 48px;
+    width: 90%;
+    text-align: center;
+    align-items: center;
   }
   .code {
-    padding-right: 105px;
+    padding: 0;
   }
   .digitalMarketing,
   .seoEngine {
-    margin: 0;
+    margin: 0 0 48px;
   }
   .seoEngine {
     margin-bottom: 12px;
+  }
+  .container3 p.popular {
+  padding: 0 50px;
   }
   .servicesname {
     margin: 0;
